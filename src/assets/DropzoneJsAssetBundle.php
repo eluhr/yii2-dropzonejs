@@ -7,7 +7,7 @@
  * file that was distributed with this source code.
  */
 
-namespace eluhr\sortablejs\assets;
+namespace eluhr\dropzonejs\assets;
 
 use yii\web\AssetBundle;
 
