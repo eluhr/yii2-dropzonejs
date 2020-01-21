@@ -1,0 +1,19 @@
+{
+    "name": "eluhr/yii2-dropzonejs",
+    "description": "Yii2 Wrapper for enyo/dropzone",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Elias Luhr",
+            "email": "elias.luhr@gmail.com"
+        }
+    ],
+    "require": {
+        "bower-asset/dropzone": "^5.5.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "eluhr\\dropzonejs\\": "src/"
+        }
+    }
+}
